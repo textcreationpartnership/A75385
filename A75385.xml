@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another fight at Colchester, and the storming of the town on Fryday night last, by the Parliaments forces, and the successe thereof. Together, with the proceedings of His Majesties loyall subjects; in the counties Northapton, Liecester, and Rutland, touching their raising of sixe regiments for the defence of King, Parliament, and Kingdome. Likewise, a great fight in Scotland, between Duke Hamiltons forces commanded by the Earle of Kalendar Lieutenant Generall, and the Marquesse of Argyles party, with the number slain and taken prisoners, the Lord Chancellours escape, and hundreds fled to the mountains. Also, Duke Hamiltons speech to the Estates of Scotland, concerning the advancing with his Army into England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75385</idno>
+            <idno type="STC">Wing A3260</idno>
+            <idno type="STC">Thomason E449_29</idno>
+            <idno type="EEBO-CITATION">99864481</idno>
+            <idno type="PROQUEST">99864481</idno>
+            <idno type="VID">161872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161872)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another fight at Colchester, and the storming of the town on Fryday night last, by the Parliaments forces, and the successe thereof. Together, with the proceedings of His Majesties loyall subjects; in the counties Northapton, Liecester, and Rutland, touching their raising of sixe regiments for the defence of King, Parliament, and Kingdome. Likewise, a great fight in Scotland, between Duke Hamiltons forces commanded by the Earle of Kalendar Lieutenant Generall, and the Marquesse of Argyles party, with the number slain and taken prisoners, the Lord Chancellours escape, and hundreds fled to the mountains. Also, Duke Hamiltons speech to the Estates of Scotland, concerning the advancing with his Army into England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Colchester --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161872:1" rendition="simple:additions"/>
+            <p>ANOTHER FIGHT AT COLCHESTER, AND The ſtorming of the Town on Fryday night laſt, by the Parliaments Forces, and the ſucceſſe thereof.</p>
+            <p>TOGETHER, With the proceedings of His Majeſties loyall Subjects; in the Coun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of <hi>Northempton, Lieceſter,</hi> and <hi>Rutland,</hi> touching their raiſing of ſixe Regiments for the defence of <hi>King, Parliament,</hi> and <hi>Kingdome.</hi>
+            </p>
+            <p>Likewiſe, a great Fight in <hi>Scotland,</hi> between Duke <hi>Ha<g ref="char:EOLhyphen"/>miltons</hi> Forces commanded by the Eatie of <hi>Kalender</hi> Lieu<g ref="char:EOLhyphen"/>tenant Generall, and the M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff or <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gyles</hi> Party, with the number ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and taken priſoners, the Lord Chancellours eſcape, and hun<g ref="char:EOLhyphen"/>dreds fled to the Mountains.</p>
+            <p>Alſo, Duke <hi>Hamiltons</hi> Speech to the Eſtates of <hi>Scotland,</hi> con<g ref="char:EOLhyphen"/>cerning the advancing with his Army into <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON. Printer for</hi> G W. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161872:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:161872:2"/>
+            <head>Two Fights, the one in the North of <hi>England</hi> near <hi>Carlie,</hi> the other in the Weſt of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>Right Honoured:</salute>
+            </opener>
+            <p>MAjor Gen. <hi>Lambert,</hi> taketh all opportunities to engage <hi>Langdale</hi> to fight, but can by no meants faciliate the ſame, the Enemy ſtill keeping off, and retreating from our Van; But Major Gen. <hi>Lambert</hi> purſues, and upon the 13. 14 and 15. of this inſtant, drew up his Army, within 6. miles of <hi>Car<g ref="char:EOLhyphen"/>lile,</hi> and faced the Town, our Trumpeters ſounded a Challenge, but the enemy refuſed to fight, and would not ingage: whereupon a party of our horſe advanced towards them, and charged a body of <hi>Langdales,</hi> and after ſome diſpute worſted them kil<g ref="char:EOLhyphen"/>led 7. or 8. took 20. priſoners, and put the reſt to flight, their main body not all this while once mo<g ref="char:EOLhyphen"/>ving towards us: The Major Gen. ſeeing no pro<g ref="char:EOLhyphen"/>bability of engaging the Enemy, after ſome conſul<g ref="char:EOLhyphen"/>tation with his Offices, drew off his Army, and marched as far as <hi>Perith,</hi> where (at preſent) they re<g ref="char:EOLhyphen"/>main
+<pb n="2" facs="tcp:161872:3"/>in an excellent poſtute of Diſcipline. Wee ex<g ref="char:EOLhyphen"/>pect action very ſuddainly.</p>
+            <p>From <hi>Scotland</hi> we heare, that the Marqueſſe of <hi>Argile,</hi> the Lord <hi>Eglenton</hi> the Lord <hi>Caſtles,</hi> and ſome others in the Weſt of <hi>Scotland,</hi> are very active in raiſing of an Army to oppoſe Duke <hi>Hamilton;</hi> but to blaſt the Bud, before it comes to two much ma<g ref="char:EOLhyphen"/>turity, a party of the Hamiltonians commanded by the Earl of <hi>Kalender,</hi> the Lieut. Gen. is advanced a<g ref="char:EOLhyphen"/>gainſt them, and (as we hear) have fallen upon the Earl of <hi>Caſtles</hi> quarters, killed ſome of his men, and took ſome priſoners, but with great loſſe; for by a Meſſenger from <hi>Edenburgh,</hi> it is intimated, that the Lord <hi>Exlinton,</hi> upon notice thereof, fell upon their Rear, and after a very ſharp encounter, worſted a party of the E. of <hi>Kalenders</hi> horſe, killed ſome, and took divers priſoners; but the Hamiltonians over powring them with horſe, it is feared, they will have the worſt out, as appeares by this enſuing abſtract.</p>
+            <p>
+               <hi>Sir,</hi> Since the E. of <hi>Kalenders</hi> advance into the Weſt of <hi>Scotland,</hi> the nearer part of the Weſt is come in, and ſo ſubmit to the Levy, and by their ex<g ref="char:EOLhyphen"/>tream cruelty to the Countrey as they go, they are forced to obedience. <hi>Argile</hi> and the reſt muſt upon neceſſity yeald, by reaſon they have no horſe to withſtand them; all the men in many of his Towns have left their houſes, and are fled into the Woods and Mountains, to hide rather then to ingage, 3500. Horſe 6000. Foot, 500. Dragoons of <hi>Hamiltons</hi> par<g ref="char:EOLhyphen"/>ty are in a marching poſture, beſides the Cavalle<g ref="char:EOLhyphen"/>ring party about <hi>Barwick</hi> and <hi>Carlile,</hi> which will be all one, and without quſtion ready to joyne.</p>
+            <pb n="3" facs="tcp:161872:3"/>
+            <p>The L. <hi>Lodian</hi> Chancellour of <hi>Scotland,</hi> the L. <hi>Car,</hi> the Lord <hi>Wariſton,</hi> and divers others, are gone to the Navy of <hi>Argile,</hi> to aſſiſt him in the raiſing of forces a<g ref="char:EOLhyphen"/>gainſt the Royall party. The Miniſters and 15. of the Committee about <hi>Glaſco</hi> that came with a Petition are impriſoned, and their houſes plundered, the Lord <hi>Elcoe</hi> in <hi>Fife</hi> his Tenants plundered for not riſing, <hi>Belmorino</hi> his Tenants plundered and 2 killed.</p>
+            <p>There remaines little poſſibility of the Commiſſio<g ref="char:EOLhyphen"/>ners of the Parl. of <hi>England</hi> to do any good by their longer ſtay; for all their friends are, or preſently will be withdrawn: If D. <hi>Hamitons</hi> party can make good their deſigne by force, they will never hearken to any other means; but if at this day there had been bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4 or 5000. Horſe and Foot upon the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rders, in all probability <hi>England</hi> would not this year be troubled with an Ar<g ref="char:EOLhyphen"/>my from <hi>Scotland;</hi> but the expectation of them to make a diverſion, hath occaſioned ſome honeſt people in the <hi>Weſt</hi> to draw together; but the Lord <hi>Calender</hi> with a great body of horſe and foote, is like utterly to deſtroy them; ſome have been impriſoned already, and this week many hundreds plundered and utterly ruined, for refuſing to joyn with them: the Lord <hi>Wariſton</hi> was plun<g ref="char:EOLhyphen"/>dered upon Saturday night laſt, and it is thought that both he and the Lord <hi>Chancellour</hi> will be put out of their places, an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoned ere long: when it was de<g ref="char:EOLhyphen"/>bated in the Parl. in anſwer to ſeverall Petitions, which deſired that there might be a Treaty with <hi>England</hi> be<g ref="char:EOLhyphen"/>fore they proceeded to their Levie; Duke <hi>Hamilton</hi> an<g ref="char:EOLhyphen"/>ſwered, that ſo many Horſe were raiſed already, that no ſuch thing could be hearkened to before they had brought their Horſe into <hi>England</hi> to quarter them.</p>
+            <pb n="4" facs="tcp:161872:4"/>
+            <p>And thereupon he had an order to have a Randevouz upon the borders when he thought fit which will be as ſoone as they have done their work here; who having above 3000. horſe already, though they have no foote beſides the old Army, yet they will ſoone both ruine all the conſiderable men, who dare oppoſe them, and force the reſt to riſe in a very ſhort time. The Parl. of <hi>Scotland</hi> have paſſed an oath that all ſhould ſubſcribe; it is that they ſhould obey, and in their places execute all the Acts of this preſent Parl. the Committee came from the Committee of Eſtates, to tender it this day to the L. <hi>Chancellour,</hi> but he was firſt got away, and the L. <hi>Wa<g ref="char:EOLhyphen"/>riſton</hi> is alſo out of the way, all his goods having been taken away firſt: There is raiſed beſides the old Army, above 40. new compleat Troopes, they have but a few foot as yet, but they riſe a pace; for they who refuſe have good ſtore of Souldiers upon them; the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Kark did make an Act, That if any Mini<g ref="char:EOLhyphen"/>ſter ſhould not warn the people, and tell them of their hazard if they did ingage, they ſhould be ſuſpended; the Parl. did make an Act, That thoſe Miniſters that ſhould approve of the ingagement, ſhould have their ſtipend ſure to them while they lived, whether they did preach or n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: They have given power to the Committee of E<g ref="char:EOLhyphen"/>ſtates, to put any Officer or Miniſter of State out of his place, that ſhall not obey the Orders, and they ſhall put others into their places and offices: this is chiefly in<g ref="char:EOLhyphen"/>tended againſt the L. <hi>Chancellour,</hi> and the L. <hi>Wariſton;</hi> they have alſo made an Act, that they who will not o<g ref="char:EOLhyphen"/>bey the Act of Levy, their goods ſhall be forfeited, and their perſons ſecured.</p>
+            <closer>
+               <dateline>
+                  <hi>Kendall in Weſtmerland</hi> 
+                  <date>21. <hi>Iune</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:161872:4"/>
+            <p>
+               <hi>Sir</hi>
+            </p>
+            <p>I Thought it fit in my laſt, to let the Houſe know the readineſſe of the County of <hi>Licester,</hi> and how forward they were for common ſafety; and now ſince they have put themſelves (by the advice and appearance of my Lord <hi>Grey,</hi> and indeed whoſe intereſt doth the buſines) into ſuch a for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eidable poſture; that I think they maybe the pattern to the reſt of the Counties of <hi>England,</hi> for they have choſen their Officers, and formed their Regi<g ref="char:EOLhyphen"/>ments, <hi>viz.</hi> fix Regiments of Horse and Dragoones, three hundred in each; the Foot are not as compleated; my Lord <hi>Grey</hi> is choſen Commander is chiefe, ſo that now there wants nothing but power from the Houſe, to inable my Lord <hi>Grey</hi> to give Commiſſions to the Officers thus choſen by the Countrey; I can aſſure you they are all right men, and when this is done, they wil be in a marching poſture will in 3. dai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upon their own charge, when they ſhall be commanded. We in <hi>Rutland</hi> and <hi>Northamptonſhire</hi> ſhal joyne with <hi>Leiceſter,</hi> in an Aſ<g ref="char:EOLhyphen"/>ſociation upon the ſame way &amp; grounds as they do, &amp; it is in ſome forwardneſſe; I can aſſure you it is ſo in <hi>Rut<g ref="char:EOLhyphen"/>land,</hi> and the honeſt party in <hi>Northamptonſhire</hi> are going about it, and do not queſtion but to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect it; for both Presbyter and Independent joyne no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cordially in that County, &amp; indeed it is ſo in every place where I come? This I thought fit to make known unto you, and to de<g ref="char:EOLhyphen"/>ſire you and our friends to take the firſt opportunity to effect this conſiderable work.</p>
+            <p>
+               <hi>Market Harborough the</hi> 22. <hi>of Iune</hi> 1648.</p>
+            <p>Whereas the Lords and Commons in <hi>Parliament</hi> aſ<g ref="char:EOLhyphen"/>ſembled did upon the Twentieth of <hi>May,</hi> 1642. for the preventing of the late War, paſs theſe three Votes.</p>
+            <p n="1">1 That it appeares, that the King (ſeduced by wic<g ref="char:EOLhyphen"/>ked Councel) intends to make War againſt the Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:161872:5"/>who in all their Conſultations and Actions, have propoſed no other end unto themſelves, but the care of the Kingdoms, and the performance of all Duty and Loyalty to his Perſon. 2. That whenſoev<g ref="char:EOLhyphen"/>er the King maketh War upon the Parliament, it is a Breach of the Truſt repoſed in him by his people, con<g ref="char:EOLhyphen"/>trary to his Oath, and tending to the Diſſolution of this Government. 3 That whoſoever ſhall ſeve or aſ<g ref="char:EOLhyphen"/>ſiſt Him in ſuch Wars are Traytors, by the Funda<g ref="char:EOLhyphen"/>mental Laws of this Kingdome, and have been of ad<g ref="char:EOLhyphen"/>judged by two Acts of Parliament, and ought to ſuffer as Traytors, in <hi>Richard.</hi> 2. 1 <hi>Hen.</hi> 4.</p>
+            <p>And whereas there ore now at this time divers per<g ref="char:EOLhyphen"/>ſons in Arms, who endeavor to raiſe War againſt the Parliament; The Lords and Commons aſſembled in Parliament, for better enforming of the Subjects of this Kingdome in their Duty, do now at this time De<g ref="char:EOLhyphen"/>clare, That it doth appeare, that divers who have aſ<g ref="char:EOLhyphen"/>ſiſted the King in the late war againſt the Parliament, is alſo divees others do endeavor to ſeduce the people, and do a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly Levy War againſt the Parliament.</p>
+            <p>That whoſoever ſhall make war againſt the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> or aſſiſt in ſuch war, are Traytors, by the Fundamental Laws of this Kingdom. &amp; have been ſo adjudged by two Acts of Parliament, and ought to ſuffer as Traytors, 11 <hi>Ric.</hi> 2. 1 <hi>Hen.</hi> 4.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>H: Elſyage, Cler.</hi>
+                     </item>
+                     <item>
+                        <hi>Parl. D. Com.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>On F<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>day laſt our Souldiers thinking they lay too long idle before ſo fli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght a Towne (without Order) fell ſuddainly on the Enemy and began very fearſely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Storme it, but the Ene<g ref="char:EOLhyphen"/>my being better provided then they expected, galilantly defen<g ref="char:EOLhyphen"/>ded the place, whereupon our Souldiers ſeeing their was no good to be done for preſent, made good their retreat with little or no loſſe at all.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
